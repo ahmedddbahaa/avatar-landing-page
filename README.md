@@ -11,5 +11,8 @@ A simple landing page built with **HTML & CSS**.
 ## Demo
 [Live Preview](#)  <!-- Deploy -->
 
+## Preview
+
+![Project Screenshot](./img/Screenshot%20(278).png)
 ---
 👨‍💻 Developed by Ahmed Bahaa
