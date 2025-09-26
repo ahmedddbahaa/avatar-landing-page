@@ -9,7 +9,8 @@ A simple landing page built with **HTML & CSS**.
 - Hover effects
 
 ## Demo
-[Live Preview](#)  <!-- Deploy -->
+## Live Demo
+[Click here to view the project](https://avatarbahaa.netlify.app/)
 
 ## Preview
 
